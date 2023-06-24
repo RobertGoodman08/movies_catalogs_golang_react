@@ -1,6 +1,6 @@
 # Movies Catalogs Golang React
 
-- Project functionality
+## Project functionality
 - Add movies and genre.
 - Manage movies and genre.
 - Search movies using graphql.
