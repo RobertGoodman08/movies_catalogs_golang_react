@@ -7,11 +7,10 @@
 - Movie Poster added from themoviedb.com by api call.
 - Etc.
 
----
-## Requirement
-- React
-- Golang
-- PostgreSQL
+## For authorization
+- email: me@here.com
+- password: password
+
 
 # Start Application
 ## Starting frontend
