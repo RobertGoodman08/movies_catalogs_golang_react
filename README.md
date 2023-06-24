@@ -1,4 +1,4 @@
-# Movies Catalogs Golang React
+# Movies Catalogs Golang and React
 
 ## Project functionality
 - Add movies and genre.
