@@ -47,7 +47,7 @@ func main() {
 	// Определение флагов командной строки
 	flag.IntVar(&cfg.port, "port", 4000, "Server port to listen on")
 	flag.StringVar(&cfg.env, "env", "development", "Application environment (development|production")
-	flag.StringVar(&cfg.db.dsn, "dsn", "postgres://postgres:93381022@localhost:5432/go_movies?sslmode=disable", "Postgres connection string")
+	flag.StringVar(&cfg.db.dsn, "dsn", "postgres://postgres:your_password@localhost:5432/go_movies?sslmode=disable", "Postgres connection string")
 	flag.Parse()
 
 	// считывание jwt-секрета из env
