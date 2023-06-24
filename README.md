@@ -8,13 +8,13 @@ Movie Poster added from themoviedb.com by api call.
 Etc.
 
 ---
-##Requirement
+## Requirement
 - React
 - Golang
 - PostgreSQL
 
-#Start Application
-##Starting frontend
+# Start Application
+## Starting frontend
 1)`npm install`
 2)`npm start`
 ---
