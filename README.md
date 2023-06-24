@@ -15,8 +15,8 @@ Etc.
 
 # Start Application
 ## Starting frontend
-1)`npm install`
-2)`npm start`
+1) `npm install`
+2) `npm start`
 ---
 ##Starting backend
 1) `go get` 
